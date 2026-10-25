@@ -1,10 +1,10 @@
 {
-  "_nota": "Un set por pilar (mismo identificador que en marca/pilares-contenido.md). La IA elige los más relevantes de cada lista. Revisa y ajusta cada pocas semanas.",
-  "comunes": ["#andorra", "#temporadadeesqui", "#pirineos"],
-  "vida-temporada": ["#temporadista", "#vidaentemporada", "#trabajarenandorra", "#vivirenandorra", "#temporadadeinvierno", "#vidademontaña", "#seasonlife", "#seasonworker"],
-  "nieve-pistas": ["#grandvalira", "#vallnord", "#esqui", "#snowboard", "#powderday", "#ski", "#nieve", "#skiing", "#freeride"],
-  "tips-andorra": ["#tipsandorra", "#viajaraandorra", "#andorraviaje", "#esquibarato", "#viajarbarato", "#consejosdeviaje", "#andorralavella"],
-  "paisajes": ["#andorrapaisajes", "#montaña", "#mountains", "#pirineo", "#paisajesdeinvierno", "#mountainlife", "#visitandorra"],
-  "detras-camaras": ["#mividaenandorra", "#creadoradecontenido", "#diariodetemporada", "#vlogdiario", "#vidareal"],
-  "youtube": ["#shorts", "#andorra", "#esqui"]
+  "_nota": "Un set por pilar (mismo identificador que en marca/pilares-contenido.md). La IA elige los más relevantes de cada lista. Revisa y ajusta cada pocas semanas según lo que funcione.",
+  "comunes": ["#andorra", "#viajarsola", "#temporada"],
+  "animarse": ["#zonadeconfort", "#animate", "#viajarsola", "#vivirenelexterior", "#emigrar", "#argentinosenelmundo", "#empezardecero", "#mujeresqueviajan", "#vivirviajando"],
+  "verdades": ["#loquenadietedice", "#vivirviajando", "#realidad", "#viajarsola", "#emigrar", "#argentinosenelmundo", "#mujeresqueviajan", "#verdades"],
+  "pertenecer": ["#extranjera", "#emigrar", "#argentinosenelmundo", "#desarraigo", "#vivirlejos", "#extrañar", "#familia", "#volveralpais"],
+  "temporada": ["#trabajodetemporada", "#temporadadeinvierno", "#trabajarenandorra", "#camarera", "#bartender", "#hosteleria", "#temporadista", "#seasonlife", "#workandtravel"],
+  "montana": ["#montaña", "#esqui", "#nieve", "#pirineos", "#andorra", "#grandvalira", "#mountainlife", "#paz", "#libertad"],
+  "youtube": ["#shorts", "#viajarsola", "#andorra"]
 }
