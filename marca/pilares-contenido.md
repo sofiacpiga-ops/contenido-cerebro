@@ -18,6 +18,13 @@
 
 `animarse` y `verdades` son los que más le hablan directamente a mi avatar. `vinculos` es el que más alcance trajo (mi reel de "Hablar de lo incómodo"), pero el que menos seguidores convierte: úsalo para atraer y que siempre lleve el puente a mi vida afuera.
 
+## Validar en TikTok, escalar en Instagram
+Mis tres reels fijados ("Hablar de lo incómodo", "La sombra", "Los gatitos") tenían textos que **primero validé en TikTok** y que después rindieron **más en Instagram** que en TikTok.
+Flujo de trabajo:
+1. Un texto nuevo sale primero en TikTok (es más barato probar ahí).
+2. Si funciona (guardados, compartidos, retención por encima de lo normal), se publica en Instagram con una **imagen nueva** y el puente reforzado.
+3. En el calendario, el campo `notas` lleva `validado-tiktok` cuando un texto viene de ahí.
+
 ## La regla del puente
 Una verdad universal (vínculos, madurez, miedo) atrae, pero no explica por qué seguirme. Cada pieza conecta la verdad con **mi vida afuera**, en el texto en pantalla, en el caption o en el comentario fijado:
 - ❌ "Cuidar un vínculo no consiste solo en disfrutar cuando todo va bien."

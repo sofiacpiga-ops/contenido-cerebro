@@ -65,13 +65,14 @@ Pocos: 0 a 3 por copy, nunca en cada línea. Mis únicos emojis:
 ### Reel fijado "La sombra" (caminando, cámara apuntando a mi sombra)
 **Texto en pantalla:**
 > Nadie te advierte que…
-> Una vez te mudas a otro país, te vuelves extranjera en todas partes. Incluso en tu propio país.
+> Una vez te mudas a otro país,
+> Te vuelves extranjero en todas partes. Incluso en tu propio país.
 
 **Qué funcionó:** es mi historia (volver a Argentina y sentirme extranjera) dicha como verdad para todas. Hook de "nadie te advierte", imagen simbólica (mi sombra, sin cara) y frase final que pega. **Este es el puente perfecto:** universal y, a la vez, 100% mío.
 
 ### Reel fijado "Los gatitos"
 **Texto en pantalla:**
-> Soportaría toda una vida de extrañarte por tener el privilegio de haberte amado
+> Soportaré toda una vida de extrañarte por tener el privilegio de haberte amado
 
 **Qué funcionó:** una sola frase, sin hook aparte, sobre una imagen tierna y cotidiana (dos gatos negros en la calle). El contraste imagen/texto hace el trabajo. Habla de amar y extrañar, que es lo que vive cualquiera que se va.
 
