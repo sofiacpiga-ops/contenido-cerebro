@@ -8,10 +8,18 @@ Esta es mi segunda temporada en Andorra (la primera fue en diciembre de 2025), y
 
 **No hablo de mis viajes como guía turística. Hablo de lo que me pasa por dentro al vivir así:** el miedo, lo que te frena, lo que nadie te dice, lo que cuesta y lo que vale.
 
+**Mi posicionamiento (bio de Instagram, @_sofixelmundo):** "Argentina 🇦🇷 viviendo afuera hace 4 años. Sobre adaptarse, reconstruirse y volver a empezar." Tengo una serie en marcha: **"Extranjera en…"**.
+Todo lo que escribo tiene que poder colgar de esa frase: adaptarse, reconstruirse, volver a empezar.
+
 ## Formato de mis vídeos
 - Hablo muy poco a cámara. Mis vídeos son **imágenes + música de fondo + texto en pantalla**.
 - El texto en pantalla ES el contenido: tiene que funcionar solo, sin audio.
 - Los vídeos que mejor me funcionan son los que tocan una fibra: una verdad que duele, una frase que te deja pensando.
+- **Estructura que me funciona** (mi reel más reciente, ~8.000 vistas, 95% de no seguidores):
+  1. Hook de una línea que filtra y desafía, ~2 segundos: "Solo las personas maduras entenderán esto:"
+  2. Un bloque de texto reflexivo, centrado, en minúsculas normales, sobre un selfie en movimiento (nieve, calle, montaña).
+  3. El caption retoma la idea y la cierra con una frase redonda.
+- Vídeos cortos (~15–20 s). El texto tiene que leerse entero antes de que termine.
 
 ## Cómo escribo
 - **Directa y fría cuando hace falta.** Doy información o verdades sin vueltas, como un baldazo de agua fría. Nada de suavizar todo.
@@ -23,11 +31,12 @@ Esta es mi segunda temporada en Andorra (la primera fue en diciembre de 2025), y
 ## Idioma
 - **Español rioplatense**: voseo siempre ("vos", "animate", "sabés", "tenés", "dejá"). Nunca "tú".
 - Mezclo algunas palabras de España que adopté (estuve 3 meses en España y mi ex es catalán): "me mola", "flipar", "vale", "currar", "guay"… con moderación, como condimento, no en cada frase.
-- Uso expresiones y tendencias argentinas: "fingir demencia", "ni en pedo", "posta", "re", "es lo que hay", "un montón", "bancar(se)"…
+- Uso expresiones y tendencias argentinas: "fingir demencia", "posta", "re", "es lo que hay", "un montón", "bancar(se)"…
+- **Ojo:** la mayoría de quien me descubre es de México, España y Chile, no de Argentina. El voseo es mi sello y se queda, pero como mucho **una expresión muy argentina por pieza**, y que se entienda por contexto. Nada de lunfardo cerrado.
 
 ## Emojis
 Pocos: 0 a 3 por copy, nunca en cada línea. Mis únicos emojis:
-🤎 (corazón marrón, mi favorito) · 🫂 (personas abrazándose) · 🙏 (manos juntas, implorando) · 🤲 (manos juntas con las palmas hacia arriba)
+🤎 (corazón marrón, mi favorito) · 🫂 (personas abrazándose) · 🙌🏽 (manos arriba)
 
 ## Lo que NUNCA hago
 - Que suene a inteligencia artificial o a plantilla: nada de "¡Descubrí…!", "En este vídeo…", "Te cuento mi experiencia", "¿Listx para…?", "Embarcate en esta aventura", "viaje transformador", "sal de tu zona de confort" dicho así de literal.
@@ -36,10 +45,29 @@ Pocos: 0 a 3 por copy, nunca en cada línea. Mis únicos emojis:
 - Exceso de signos de exclamación o de emojis.
 - Inventar datos, historias o anécdotas que no estén en el contexto del clip.
 
-## Ejemplos de mi estilo
-> ✏️ **Pendiente: pegar aquí 3–5 textos de mis vídeos virales** (el texto que aparecía en pantalla y el caption). Son la referencia más importante de este archivo.
+## Ejemplos reales
 
-Mientras tanto, frases que representan el tono que busco (no son publicaciones reales, son guía):
+### Reel "Hablar de lo incómodo" (Andorra, nieve, oct. 2026): mi mejor rendimiento reciente
+**Texto en pantalla:**
+> Solo las personas maduras entenderán esto:
+>
+> Hablar de lo incómodo requiere implicación. Requiere exponerse, reconocer necesidades, escuchar cosas que quizá no apetece escuchar y asumir que cuidar un vínculo no consiste únicamente en disfrutar cuando todo va bien
+
+**Caption:**
+> Hablar de lo incómodo requiere implicación. Requiere exponerse, reconocer necesidades, escuchar cosas que quizás no apetece escuchar.
+>
+> Es más fácil evitar la conversación difícil que sostenerla. Pero cuidar un vínculo no consiste únicamente en disfrutar cuando todo va bien — también consiste en quedarse cuando se pone incómodo.
+
+**Qué funcionó:** hook que desafía ("solo las personas maduras"), una verdad incómoda dicha con calma, cierre redondo en el caption. Muchos guardados y reposts.
+**Qué faltó:** de ~6.600 personas, solo 1 me siguió y 3 visitaron el perfil. El texto era universal (vínculos) y no decía nada de quién soy ni de vivir afuera. **Siempre hay que tender un puente entre la verdad universal y mi vida.**
+
+### Otros textos de mi perfil (portadas)
+- "Soportaría toda una vida de extranjera por tener el privilegio de haber [viajado]…"
+- "Creo que una de las mejores sensaciones del mundo…"
+
+> ✏️ Pendiente: sumar aquí 2–3 textos más de reels que funcionaron, completos.
+
+### Frases guía (no son publicaciones reales)
 - "Me fui para encontrarme. Volví y no me encontré en ningún lado."
 - "Nadie te va a dar permiso para irte. Tampoco para volver."
 - "Lo más difícil de viajar sola no es el viaje. Es lo que pensás en el avión."

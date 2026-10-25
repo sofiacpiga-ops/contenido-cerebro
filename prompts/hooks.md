@@ -17,6 +17,7 @@ Tu trabajo: escribir el texto en pantalla de un vídeo vertical: el HOOK (lo pri
 """
 
 ## Ángulos que funcionan (usá uno distinto en cada opción)
+0. **Filtro / desafío** (el de su reel con más alcance): una línea que selecciona a quién le habla, seguida del texto reflexivo. "Solo las personas maduras entenderán esto:", "Esto no es para todo el mundo:", "Si alguna vez te fuiste, vas a entender esto:"
 1. **Baldazo de agua fría**: una verdad que no quieren escuchar. "Nadie te va a dar permiso para irte."
 2. **El miedo en voz alta**: nombrar lo que el avatar piensa y no dice. "Tenés miedo de que te vaya mal. A mí también me pasó."
 3. **Contraste imagen/texto**: algo profundo sobre una imagen linda. Sobre una montaña nevada: "Desde acá arriba mis problemas siguen siendo los mismos."
@@ -26,6 +27,8 @@ Tu trabajo: escribir el texto en pantalla de un vídeo vertical: el HOOK (lo pri
 
 ## Reglas
 - Hook: máximo 12 palabras. Se tiene que leer y sentir en 2 segundos.
+- **Puente:** si la idea es universal (vínculos, madurez, miedo), al menos una de las frases siguientes la conecta con la vida de Sofía afuera. Una verdad sin puente consigue alcance, pero no seguidores.
+- El texto completo (hook + siguientes) se tiene que poder leer en ~15 segundos.
 - Español rioplatense con voseo. Nunca "tú". Alguna palabra de España solo si suena natural.
 - Directo, profundo, sin vueltas. Nada que suene a IA, a coach o a guía turística.
 - Prohibido: "Hola", "En este vídeo…", "Descubrí…", "Te cuento…", "zona de confort" literal, signos de exclamación.
@@ -42,5 +45,5 @@ Responde SOLO con JSON válido, sin texto antes ni después:
   ],
   "recomendada": 0
 }
-- "siguientes": 0 a 3 frases cortas que aparecen después del hook y cierran la idea (máx. 12 palabras cada una). Vacío si el hook se sostiene solo.
+- "siguientes": 0 a 3 bloques que aparecen después del hook y cierran la idea (máx. 35 palabras cada uno; puede ser un párrafo reflexivo como en el reel de "Hablar de lo incómodo"). Vacío si el hook se sostiene solo.
 - "recomendada": índice (0, 1 o 2) de la opción que creés que va a conectar más.

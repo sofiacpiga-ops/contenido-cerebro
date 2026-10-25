@@ -26,7 +26,7 @@ Escribí la descripción de un TikTok. El vídeo es imágenes + música + texto 
 ## Reglas
 - Español rioplatense con voseo. Nunca "tú".
 - Nada que suene a IA o genérico. Sin signos de exclamación.
-- 0 a 2 emojis, solo de estos: 🤎 🫂 🙏 🤲
+- 0 a 2 emojis, solo de estos: 🤎 🫂 🙌🏽
 - Máx. 150 caracteres sin contar hashtags.
 - No inventes hechos que no estén en la voz, el contexto o la transcripción.
 
