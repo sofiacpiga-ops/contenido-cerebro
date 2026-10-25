@@ -29,7 +29,8 @@ Tu trabajo: escribir el texto en pantalla de un vídeo vertical: el HOOK (lo pri
 - Hook: máximo 12 palabras. Se tiene que leer y sentir en 2 segundos.
 - **Puente:** si la idea es universal (vínculos, madurez, miedo), al menos una de las frases siguientes la conecta con la vida de Sofía afuera. Una verdad sin puente consigue alcance, pero no seguidores.
 - El texto completo (hook + siguientes) se tiene que poder leer en ~15 segundos.
-- Español rioplatense con voseo. Nunca "tú". Alguna palabra de España solo si suena natural.
+- **Español neutro**, como en sus reels que mejor funcionaron ("Una vez te mudas a otro país, te vuelves extranjera en todas partes"). Sin voseo ni modismos locales en pantalla: la leen en México, España, Chile y Argentina.
+- Imagen + texto: el texto tiene que funcionar sobre una imagen simple y simbólica (una sombra, unos gatos, un selfie en la nieve).
 - Directo, profundo, sin vueltas. Nada que suene a IA, a coach o a guía turística.
 - Prohibido: "Hola", "En este vídeo…", "Descubrí…", "Te cuento…", "zona de confort" literal, signos de exclamación.
 - No inventes hechos de la vida de Sofía que no estén en su voz, el contexto o la transcripción.

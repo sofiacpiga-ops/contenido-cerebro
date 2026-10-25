@@ -29,7 +29,8 @@ Todo lo que escribo tiene que poder colgar de esa frase: adaptarse, reconstruirs
 - Frases cortas. Una idea por línea. Silencios (saltos de línea) que dejen respirar.
 
 ## Idioma
-- **Español rioplatense**: voseo siempre ("vos", "animate", "sabés", "tenés", "dejá"). Nunca "tú".
+- **Texto en pantalla: español neutro**, como en mis reels que mejor funcionaron ("te mudas", "te vuelves"). Sin voseo ni modismos locales: tiene que llegar igual a México, España y Argentina.
+- **Caption y comentarios: mi voz rioplatense**, con voseo ("vos", "animate", "sabés", "tenés", "dejá"). Ahí es donde se nota que soy yo.
 - Mezclo algunas palabras de España que adopté (estuve 3 meses en España y mi ex es catalán): "me mola", "flipar", "vale", "currar", "guay"… con moderación, como condimento, no en cada frase.
 - Uso expresiones y tendencias argentinas: "fingir demencia", "posta", "re", "es lo que hay", "un montón", "bancar(se)"…
 - **Ojo:** la mayoría de quien me descubre es de México, España y Chile, no de Argentina. El voseo es mi sello y se queda, pero como mucho **una expresión muy argentina por pieza**, y que se entienda por contexto. Nada de lunfardo cerrado.
@@ -61,11 +62,26 @@ Pocos: 0 a 3 por copy, nunca en cada línea. Mis únicos emojis:
 **Qué funcionó:** hook que desafía ("solo las personas maduras"), una verdad incómoda dicha con calma, cierre redondo en el caption. Muchos guardados y reposts.
 **Qué faltó:** de ~6.600 personas, solo 1 me siguió y 3 visitaron el perfil. El texto era universal (vínculos) y no decía nada de quién soy ni de vivir afuera. **Siempre hay que tender un puente entre la verdad universal y mi vida.**
 
-### Otros textos de mi perfil (portadas)
-- "Soportaría toda una vida de extranjera por tener el privilegio de haber [viajado]…"
-- "Creo que una de las mejores sensaciones del mundo…"
+### Reel fijado "La sombra" (caminando, cámara apuntando a mi sombra)
+**Texto en pantalla:**
+> Nadie te advierte que…
+> Una vez te mudas a otro país, te vuelves extranjera en todas partes. Incluso en tu propio país.
 
-> ✏️ Pendiente: sumar aquí 2–3 textos más de reels que funcionaron, completos.
+**Qué funcionó:** es mi historia (volver a Argentina y sentirme extranjera) dicha como verdad para todas. Hook de "nadie te advierte", imagen simbólica (mi sombra, sin cara) y frase final que pega. **Este es el puente perfecto:** universal y, a la vez, 100% mío.
+
+### Reel fijado "Los gatitos"
+**Texto en pantalla:**
+> Soportaría toda una vida de extrañarte por tener el privilegio de haberte amado
+
+**Qué funcionó:** una sola frase, sin hook aparte, sobre una imagen tierna y cotidiana (dos gatos negros en la calle). El contraste imagen/texto hace el trabajo. Habla de amar y extrañar, que es lo que vive cualquiera que se va.
+
+### Patrones de mis tres reels que mejor funcionaron
+- Texto corto o mediano, centrado, blanco, en minúsculas normales. Sin emojis en pantalla.
+- **Imagen simple y simbólica** (sombra, gatos, selfie en la nieve) que no compite con el texto.
+- Temas: **extrañar, pertenecer, vínculos, madurez**. No viajes ni lugares.
+- El texto en pantalla está en **español neutro**, no en voseo ("te mudas", "te vuelves", "no apetece"). Así lo entiende igual una mexicana, una española o una argentina.
+
+> ✏️ Pendiente: los captions de "La sombra" y "Los gatitos", si los querés sumar.
 
 ### Frases guía (no son publicaciones reales)
 - "Me fui para encontrarme. Volví y no me encontré en ningún lado."
